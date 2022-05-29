@@ -1,2 +1,3 @@
 # DesafioGitHubInicial
-Desafio de Projeto Inicial do BOOTCAMP.
+Desafio de Projeto Inicial sobre git/github do BOOTCAMP.
+
